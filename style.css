@@ -47,6 +47,7 @@ article {
     color: aliceblue;
     text-align: center;
     font-size: 60px;
+    padding-bottom: 10%;
 
 
 }
@@ -54,7 +55,7 @@ article {
 article h1 {
     margin-top: 35%;
     font-size: 60px;
-    padding-bottom: 10%;
+    padding-bottom: 15%;
 }
 
 .image-container {
@@ -96,7 +97,7 @@ footer {
         font-size: 25px;
     }
     header{
-        margin-top: 20%;
+        margin-top: 15%;
         margin-right: 1%;
     }
     aside h1{
@@ -125,9 +126,14 @@ footer {
         min-height: 60vh;
         
     }
-    img h3{
-        font-size: 20px;
+    
+    
+    .image {
+        
+        padding-left: 4%;
+        padding-right: 4%;
+        padding-bottom: 13%;
+        
+    
     }
-    
-    
 }
